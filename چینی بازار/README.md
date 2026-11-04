@@ -6,10 +6,11 @@
 
 ## شروع سریع برای مدیریت
 
-1. **سند اصلی ارائه** → [`3-MONTH-SEO-PLAN.md`](3-MONTH-SEO-PLAN.md)
-2. **استراتژی و کلمات کلیدی** → [`SEO-STRATEGY.md`](SEO-STRATEGY.md)
-3. **تقویم اجرایی** → [`content-calendar/month-01.md`](content-calendar/month-01.md) … `month-03.md`
-4. **قالب گزارش پایان دوره** → [`KPI-REPORT-TEMPLATE.md`](KPI-REPORT-TEMPLATE.md)
+1. **سند جلسه (۳۰ دقیقه، اسلاید به اسلاید)** → [`سند-جلسه-مدیریت.md`](سند-جلسه-مدیریت.md)
+2. **سند کامل برنامه** → [`3-MONTH-SEO-PLAN.md`](3-MONTH-SEO-PLAN.md)
+3. **استراتژی و کلمات کلیدی** → [`SEO-STRATEGY.md`](SEO-STRATEGY.md)
+4. **تقویم اجرایی** → [`content-calendar/month-01.md`](content-calendar/month-01.md) … `month-03.md`
+5. **قالب گزارش پایان دوره** → [`KPI-REPORT-TEMPLATE.md`](KPI-REPORT-TEMPLATE.md)
 
 ---
 
@@ -32,7 +33,8 @@
 ```
 چینی بازار/
 ├── README.md
-├── 3-MONTH-SEO-PLAN.md      ← سند مدیریتی (۳ ماه)
+├── سند-جلسه-مدیریت.md       ← ارائه ۳۰ دقیقه به مدیریت
+├── 3-MONTH-SEO-PLAN.md      ← برنامه کامل (۳ ماه)
 ├── SEO-STRATEGY.md          ← استراتژی کلیدواژه و رقبا
 ├── KPI-REPORT-TEMPLATE.md
 ├── content-calendar/
