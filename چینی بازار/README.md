@@ -12,6 +12,7 @@
 4. **استرategی و کلمات کلیدی** → [`SEO-STRATEGY.md`](SEO-STRATEGY.md)
 5. **تقویم اجرایی** → [`content-calendar/month-01.md`](content-calendar/month-01.md) … `month-03.md`
 6. **قالب گزارش پایان دوره** → [`KPI-REPORT-TEMPLATE.md`](KPI-REPORT-TEMPLATE.md)
+7. **لیست عناوین مقالات (اولویت S/A/B/C)** → [`لیست-عناوین-مقالات.md`](لیست-عناوین-مقالات.md)
 
 ---
 
