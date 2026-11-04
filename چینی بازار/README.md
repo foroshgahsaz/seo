@@ -6,11 +6,12 @@
 
 ## شروع سریع برای مدیریت
 
-1. **سند جلسه (۳۰ دقیقه، اسلاید به اسلاید)** → [`سند-جلسه-مدیریت.md`](سند-جلسه-مدیریت.md)
-2. **سند کامل برنامه** → [`3-MONTH-SEO-PLAN.md`](3-MONTH-SEO-PLAN.md)
-3. **استراتژی و کلمات کلیدی** → [`SEO-STRATEGY.md`](SEO-STRATEGY.md)
-4. **تقویم اجرایی** → [`content-calendar/month-01.md`](content-calendar/month-01.md) … `month-03.md`
-5. **قالب گزارش پایان دوره** → [`KPI-REPORT-TEMPLATE.md`](KPI-REPORT-TEMPLATE.md)
+1. **ارائه برای مدیریت (زبان ساده، بدون اصطلاح)** → [`ارائه-برای-مدیریت.md`](ارائه-برای-مدیریت.md)
+2. **سند جلسه (اسلاید به اسلاید، ۳۰ دقیقه)** → [`سند-جلسه-مدیریت.md`](سند-جلسه-مدیریت.md)
+3. **سند کامل برنامه** → [`3-MONTH-SEO-PLAN.md`](3-MONTH-SEO-PLAN.md)
+4. **استرategی و کلمات کلیدی** → [`SEO-STRATEGY.md`](SEO-STRATEGY.md)
+5. **تقویم اجرایی** → [`content-calendar/month-01.md`](content-calendar/month-01.md) … `month-03.md`
+6. **قالب گزارش پایان دوره** → [`KPI-REPORT-TEMPLATE.md`](KPI-REPORT-TEMPLATE.md)
 
 ---
 
